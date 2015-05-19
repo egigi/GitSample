@@ -3,7 +3,8 @@
 
 void main()
 {
-	printf("Stampa qualcosa");
+	printf("Stampa qualcosa: ");
+	printf("OK, sto stampando qualcosa!");
 
 	system("PAUSE");
 }
