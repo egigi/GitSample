@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main()
+int main()
 {
 	printf("Stampa qualcosa: ");
 	printf("OK, sto stampando qualcosa!");
 
 	system("PAUSE");
+
+	return 0;
 }
 
