@@ -3,7 +3,9 @@
 
 void master()
 {
-	printf("I am the master");
+	int i = 1;
+
+	printf("I am the master %d", i);
 }
 
 void main()
