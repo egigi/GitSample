@@ -10,7 +10,9 @@ void master()
 
 void slave()
 {
-	printf("I am the slave");
+	int n = 1;
+
+	printf("I am the slave %d", n);
 }
 
 
