@@ -6,6 +6,12 @@ void master()
 	printf("I am the master");
 }
 
+void slave()
+{
+	printf("I am the slave");
+}
+
+
 void main()
 {
 	master();
